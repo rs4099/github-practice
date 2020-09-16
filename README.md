@@ -1,6 +1,8 @@
 # github-practice
 Yay! Best class ever! Love it!
 
+Come to join us!
+
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
