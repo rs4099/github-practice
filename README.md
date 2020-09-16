@@ -3,6 +3,8 @@ Yay! Best class ever! Love it!
 
 Come to join us!
 
+Hello!
+
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
