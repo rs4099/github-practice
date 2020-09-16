@@ -1,4 +1,5 @@
 # github-practice
+Yay! Best class ever! Love it!
 
 Practice using Git &amp; Github
 
